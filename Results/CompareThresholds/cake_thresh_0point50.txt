@@ -1,0 +1,25 @@
+Image Correction Details 
+------------------------------------------------
+
+Original Image: 
+---------------
+size: 370 x 410 pixels 
+
+Image Distortion: 
+-----------------
+distortion percent: 30.0% 
+
+Image Correction: 
+-----------------
+parameters: 
+	correction method: selective 
+	threshold: 0.50 
+	M: 3 
+	N: 3 
+number of iterations: 1 
+proccessing time: 6.6 seconds 
+
+------------------------------------------------
+
+created: 12-May-2017 14:04:24 -0400
+Andrew Sack

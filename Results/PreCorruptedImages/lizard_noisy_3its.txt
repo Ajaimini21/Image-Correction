@@ -1,0 +1,23 @@
+Image Correction Details 
+------------------------------------------------
+
+Original Image: 
+---------------
+size: 321 x 481 pixels 
+
+*image was not distorted*
+
+Image Correction: 
+-----------------
+parameters: 
+	correction method: selective 
+	threshold: 0.10 
+	M: 3 
+	N: 3 
+number of iterations: 3 
+proccessing time: 26.4 seconds 
+
+------------------------------------------------
+
+created: 12-May-2017 13:43:01 -0400
+Andrew Sack

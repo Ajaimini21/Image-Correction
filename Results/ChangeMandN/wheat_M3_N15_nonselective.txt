@@ -1,0 +1,22 @@
+Image Correction Details 
+------------------------------------------------
+
+Original Image: 
+---------------
+size: 256 x 256 pixels 
+
+*image was not distorted*
+
+Image Correction: 
+-----------------
+parameters: 
+	correction method: non-selective 
+	M: 3 
+	N: 15 
+number of iterations: 1 
+proccessing time: 11.7 seconds 
+
+------------------------------------------------
+
+created: 12-May-2017 14:18:30 -0400
+Andrew Sack
